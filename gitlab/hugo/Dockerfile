@@ -1,0 +1,1 @@
+From registry.gitlab.com/pages/hugo:latest
